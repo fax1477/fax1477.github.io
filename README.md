@@ -45,3 +45,15 @@ venv/scripts/activate
 5.ติดตั้ง streamlit
 
 pip install streamlit
+
+## poject
+- application title
+- author: 
+  * id: ---
+  * name: first last
+- technology: [pygame/streamlit]
+- application description:
+
+* presentation: [slide/canva/etc..] link [public/ubu]
+* video: link [public/ubu]
+ xoxoxo
