@@ -26,7 +26,7 @@ for k,v in d.item():
 
 1.
 ```
-git clone https://github.com/nitchapon66/nitchapon66.github.io
+git clone https://github.com/fax1477/fax1477.github.io
 
 ```
 
