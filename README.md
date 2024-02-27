@@ -40,7 +40,7 @@ python -m venv venv
 
 4. activate สภาพแวดล้อมใหม่
 
-venv/scripts/activate
+venv\scripts\activate
 
 5.ติดตั้ง streamlit
 
